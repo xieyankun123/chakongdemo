@@ -14,7 +14,7 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-
+//lianxifenzhi
 @Controller
 @RequestMapping("/login.req")
 public class dengluController {
